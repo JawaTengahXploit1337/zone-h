@@ -1,4 +1,4 @@
 
 <p align="center">
-	<img src="https://JawaTengahXploit1337.github.io/zone-h/IMG_20230708_114445.jpg" width="600px">
+	<img src="https://i.ibb.co/PWVsXf0/IMG-20230708-114445.jpg" width="600px">
 </p>
