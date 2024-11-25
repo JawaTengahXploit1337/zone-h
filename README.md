@@ -17,6 +17,9 @@
 4. **Grab From Archive**:
    - Mengambil data domain dari arsip umum Zone-H.
 
+## 📸Tangkapan Layar
+![Zone-H](zh.png)
+
 ## 💻Persyaratan
 - **Python 3.x** (rekomendasi)
 - Paket tambahan:
