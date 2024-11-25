@@ -1,3 +1,5 @@
+# Tools ini open source boleh di recode tapi jangan di jual wkwk
+
 import os
 import re
 import sys
