@@ -22,7 +22,7 @@
 - Paket tambahan:
   - `requests` (untuk HTTP request)
 
-### ⌨️Instalasi Paket
+### 🚀Instalasi Paket
 Pastikan Anda menginstal semua dependensi yang diperlukan dengan perintah berikut:
 ```bash
 pip install requests
@@ -32,16 +32,15 @@ pip install requests
 1. **Clone Repository**:
    Clone tools ini ke direktori lokal Anda:
    ```bash
-   git clone https://github.com/<username>/<repository>.git
-   cd <repository>
+   git clone https://github.com/JawaTengahXploit1337/Zone-H.git
+   cd Zone-H
    ```
 
 2. **Jalankan Tools**:
    Jalankan script Python:
    ```bash
-   python script_name.py
+   python zh.py
    ```
-   Ganti `script_name.py` dengan nama file script Anda.
 
 3. **Masukkan Input yang Diminta**:
    - Anda akan diminta memasukkan **PHPSESSID** dan **ZHE**, yang dapat ditemukan di cookies akun Zone-H Anda. Jika sudah memiliki file `.PHPSESSID` dan `.ZHE`, tools akan memuatnya secara otomatis.
