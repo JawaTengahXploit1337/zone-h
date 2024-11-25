@@ -1,7 +1,4 @@
-
-<p align="center">
-	<img src="zh.png" width="600px">
-</p>
+![Zone-H](zh.gif)
 
 # Zone-H Notifier Grabber
 
